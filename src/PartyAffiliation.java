@@ -16,7 +16,7 @@ partyChoice = partyChoice.toUpperCase();
             } else if (partyChoice.equals("I")) {
             System.out.println("You get a Independent Person.");
         }else{
-            System.out.println("You entered: "+ partyChoice + " which is invalid.You may enter only D, R, or I ");
+            System.out.println("You get Other.");
         }
     }
     }
